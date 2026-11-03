@@ -1,0 +1,14 @@
+C:\Users\eka\PraktikumStream\bin\Debug\net8.0\PraktikumStream.exe
+C:\Users\eka\PraktikumStream\bin\Debug\net8.0\PraktikumStream.deps.json
+C:\Users\eka\PraktikumStream\bin\Debug\net8.0\PraktikumStream.runtimeconfig.json
+C:\Users\eka\PraktikumStream\bin\Debug\net8.0\PraktikumStream.dll
+C:\Users\eka\PraktikumStream\bin\Debug\net8.0\PraktikumStream.pdb
+C:\Users\eka\PraktikumStream\obj\Debug\net8.0\PraktikumStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eka\PraktikumStream\obj\Debug\net8.0\PraktikumStream.AssemblyInfoInputs.cache
+C:\Users\eka\PraktikumStream\obj\Debug\net8.0\PraktikumStream.AssemblyInfo.cs
+C:\Users\eka\PraktikumStream\obj\Debug\net8.0\PraktikumStream.csproj.CoreCompileInputs.cache
+C:\Users\eka\PraktikumStream\obj\Debug\net8.0\PraktikumStream.dll
+C:\Users\eka\PraktikumStream\obj\Debug\net8.0\refint\PraktikumStream.dll
+C:\Users\eka\PraktikumStream\obj\Debug\net8.0\PraktikumStream.pdb
+C:\Users\eka\PraktikumStream\obj\Debug\net8.0\PraktikumStream.genruntimeconfig.cache
+C:\Users\eka\PraktikumStream\obj\Debug\net8.0\ref\PraktikumStream.dll

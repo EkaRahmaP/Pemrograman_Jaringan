@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Mahasiswa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NIM>241313100</NIM>
+  <Nama>Eka Rahma Prasetyo</Nama>
+  <Jurusan>Teknologi Informasi</Jurusan>
+  <MataKuliah>
+    <string>Pemrograman Jaringan</string>
+    <string>Keamanan Siber</string>
+    <string>IMK</string>
+  </MataKuliah>
+</Mahasiswa>
