@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message PaketMahasiswa {
+    int32 nim = 1;
+    string nama = 2;
+    float ipk = 3;
+}
